@@ -62186,7 +62186,7 @@ A.WC.prototype={
 $0(){},
 $S:0}
 A.Hl.prototype={
-X(a){var s,r=null,q="assets/svg/bg.svg",p='"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "',o=t.w,n=a.a5(o).f,m=A.FO(r,A.a4G(q),r,r,0,r,r,r),l=A.FO(r,A.a4G(q),r,r,r,0,r,r)
+X(a){var s,r=null,q="assets/svg/bg.svg",p='"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "',o=t.w,n=a.a5(o).f,m=A.FO(r,A.a4G(q),r,r,0,r,r,r),l=A.FO(r,A.a4G(q),r,r,r,-270,r,r)
 o=a.a5(o).f
 s=t.F
 return A.hm(A.wK(B.c8,A.a([m,l,A.AR(A.hm(A.w3(A.a([A.Vc(new A.HI(new A.a43(2),10,10,r,A.a([A.aja(B.OC,1,0.65),new A.pF(B.fS,"Mobile App Development",p,1.3,"assets/images/mobile.png",r),new A.pF(B.Ht,"UI / UX Design",p,1.3,"assets/images/uiux.png",r),new A.pF(B.Hs,"Web Development",p,1.3,"assets/images/web.png",r)],s),r),2),A.Vc(new A.ic(B.C4,A.BO(A.a([A.iu("SERVICES",A.dh(r,r,B.eZ,r,r,r,r,r,r,r,r,28,r,r,B.Y,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.JR,A.iu("Our Services",A.dh(r,r,B.aL,r,r,r,r,r,r,r,r,36,r,r,B.dx,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.iu("Include",A.dh(r,r,B.aL,r,r,r,r,r,r,r,r,36,r,r,B.q,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.el,A.iu("Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",A.dh(r,r,B.lR,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],s),B.cg,B.bP,B.ax),r),3)],s),B.bP,B.ax),r,o.a.a*0.9),r,r)],s),B.d4),r,n.a.a)}}
